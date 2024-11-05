@@ -1,0 +1,50 @@
+{
+  "columns": [
+    {
+      "id": "column-3",
+      "title": "Done",
+      "tasks": [],
+      "order": 2
+    },
+    {
+      "id": "column-4",
+      "title": "124124124124",
+      "tasks": [],
+      "order": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Add drag and drop",
+      "description": "Implement DnD functionality using dnd-kit",
+      "status": "column-3",
+      "priority": "high",
+      "dueDate": "2024-03-20"
+    },
+    {
+      "id": "2",
+      "title": "Style components",
+      "description": "Apply shadcn/ui components and custom styling",
+      "status": "column-3",
+      "priority": "medium",
+      "dueDate": "2024-03-21"
+    },
+    {
+      "id": "3",
+      "title": "Write documentation",
+      "description": "Document the implementation and usage",
+      "status": "column-3",
+      "priority": "low",
+      "dueDate": "2024-03-22"
+    },
+    {
+      "id": "4",
+      "status": "column-4",
+      "title": "124",
+      "description": "124",
+      "priority": "medium",
+      "dueDate": ""
+    }
+  ]
+}
