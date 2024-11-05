@@ -1,0 +1,34 @@
+{
+  "columns": [
+    {
+      "id": "column-1",
+      "title": "To Do",
+      "tasks": [],
+      "order": 0
+    },
+    {
+      "id": "column-2",
+      "title": "In Progress",
+      "tasks": [],
+      "order": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": "4",
+      "status": "column-1",
+      "title": "2135",
+      "description": "12435",
+      "priority": "medium",
+      "dueDate": ""
+    },
+    {
+      "id": "5",
+      "status": "column-2",
+      "title": "1243513456314561346",
+      "description": "1346314613463146",
+      "priority": "medium",
+      "dueDate": ""
+    }
+  ]
+}
