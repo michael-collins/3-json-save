@@ -17,6 +17,12 @@
       "title": "Done",
       "tasks": [],
       "order": 2
+    },
+    {
+      "id": "column-4",
+      "title": "wrgwrg",
+      "tasks": [],
+      "order": 3
     }
   ],
   "tasks": [
@@ -43,6 +49,14 @@
       "status": "column-3",
       "priority": "low",
       "dueDate": "2024-03-22"
+    },
+    {
+      "id": "4",
+      "status": "column-4",
+      "title": "erer",
+      "description": "erherh",
+      "priority": "medium",
+      "dueDate": ""
     }
   ]
 }
