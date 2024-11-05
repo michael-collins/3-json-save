@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "id": "column-2",
+      "title": "In Progress",
+      "tasks": [],
+      "order": 0
+    },
+    {
+      "id": "column-3",
+      "title": "Done",
+      "tasks": [],
+      "order": 1
+    },
+    {
+      "id": "column-1",
+      "title": "heyo",
+      "tasks": [],
+      "order": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": "5",
+      "status": "column-1",
+      "title": "123",
+      "description": "123",
+      "priority": "medium",
+      "dueDate": ""
+    },
+    {
+      "id": "6",
+      "status": "column-2",
+      "title": "345",
+      "description": "345",
+      "priority": "medium",
+      "dueDate": ""
+    },
+    {
+      "id": "7",
+      "status": "column-3",
+      "title": "456",
+      "description": "456",
+      "priority": "medium",
+      "dueDate": ""
+    }
+  ]
+}
