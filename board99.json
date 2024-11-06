@@ -11,22 +11,34 @@
       "title": "In Progress",
       "tasks": [],
       "order": 1
+    },
+    {
+      "id": "column-3",
+      "title": "23r32r23",
+      "tasks": [],
+      "order": 2
+    },
+    {
+      "id": "column-4",
+      "title": "23232323",
+      "tasks": [],
+      "order": 3
     }
   ],
   "tasks": [
-    {
-      "id": "4",
-      "status": "column-1",
-      "title": "2135",
-      "description": "12435",
-      "priority": "medium",
-      "dueDate": ""
-    },
     {
       "id": "5",
       "status": "column-2",
       "title": "1243513456314561346",
       "description": "1346314613463146",
+      "priority": "medium",
+      "dueDate": ""
+    },
+    {
+      "id": "4",
+      "status": "column-3",
+      "title": "2135",
+      "description": "12435",
       "priority": "medium",
       "dueDate": ""
     }
