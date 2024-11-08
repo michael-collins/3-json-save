@@ -32,7 +32,8 @@
       "title": "1243513456314561346",
       "description": "1346314613463146",
       "priority": "medium",
-      "dueDate": ""
+      "dueDate": "",
+      "hyperTags": []
     },
     {
       "id": "4",
@@ -41,6 +42,15 @@
       "description": "12435",
       "priority": "medium",
       "dueDate": ""
+    },
+    {
+      "id": "6",
+      "status": "column-1",
+      "title": "wrwrg",
+      "description": "regwreg",
+      "priority": "medium",
+      "dueDate": "",
+      "hyperTags": []
     }
   ]
 }
